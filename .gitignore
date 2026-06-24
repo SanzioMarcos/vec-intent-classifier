@@ -1,0 +1,14 @@
+rascunho/
+.env
+
+# Ignorar o ambiente virtual do Python (onde estão o numpy e transformers)
+venv/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar pastas ocultas do sistema ou IDEs
+.vscode/
+.idea/
+.DS_Store
